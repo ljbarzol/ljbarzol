@@ -3,15 +3,41 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
+* [Contacto](#contacto)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Leidy Barzola
+* Ocupación: Estudiante de la carrera de Ingenieria en Computacion en la ESPOL
+* Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: [Tu sitio web]
+## Contacto
+* Correo institucional: ljbarzol@espol.edu.ec
 ## Proyectos
-* [Lista de tus proyectos]
+* ### Proyecto 1: Nombre del Proyecto
+- **Descripción**: 
+- **Tecnologías Utilizadas**: 
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+- **Repositorio**: [Enlace al repositorio]((https://github.com/ljbarzol/WIDS-2024))
+* ### Proyecto 2: Nombre del Proyecto
+- **Descripción**: 
+- **Tecnologías Utilizadas**: 
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+- **Repositorio**: [Enlace al repositorio]
+  * ### Proyecto 3: Nombre del Proyecto
+- **Descripción**: 
+- **Tecnologías Utilizadas**: 
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+- **Repositorio**: [Enlace al repositorio]
 ## Intereses
-* [Lista de tus intereses]
+* 
 * 
