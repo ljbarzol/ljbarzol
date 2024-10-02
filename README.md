@@ -21,7 +21,7 @@ proyectos y mis intereses.
   - CSS
   - JavaScript
   - Python
-- **Repositorio**: [Enlace al repositorio]((https://github.com/ljbarzol/WIDS-2024))
+- **Repositorio**: 
 * ### Proyecto 2: Nombre del Proyecto
 - **Descripción**: 
 - **Tecnologías Utilizadas**: 
