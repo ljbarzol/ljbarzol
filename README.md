@@ -27,12 +27,12 @@ Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada po
   - HTML
   - CSS
 - **Repositorio**: [Link del repositorio](https://github.com/ljbarzol/WIDS-2024)
-  ### Proyecto 2: ESTRUCTURAS DE DATOS
+### Proyecto 2: ESTRUCTURAS DE DATOS
 - **Descripción**: 
 - **Tecnologías Utilizadas**: 
   - Java
 - **Repositorio**: [Link del repositorio](https://github.com/vic28code/Grupo_11)
-  ### Proyecto 3: SIMULACION DE ERRORES EN LA TRANSMISION 
+### Proyecto 3: SIMULACION DE ERRORES EN LA TRANSMISION 
 - **Descripción**: Simulación de una aplicación en la que el cliente guarda datos en un servidor.
 - **Tecnologías Utilizadas**: 
   - Python
