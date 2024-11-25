@@ -14,7 +14,6 @@ Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada po
     - [**Lenguajes de programación**:](#lenguajes-de-programación)
     - [**Frameworks y librerías**:](#frameworks-y-librerías)
     - [**Bases de datos**:](#bases-de-datos)
-    - [**Herramientas de desarrollo**:](#herramientas-de-desarrollo)
   - [Intereses](#intereses)
     - [Innovación Tecnológica](#innovación-tecnológica)
     - [Desafíos en la Programación](#desafíos-en-la-programación)
@@ -59,67 +58,68 @@ Manejo de archivos: Lectura y escritura de archivos de texto.
 ## Tecnologias aprendidas 
 ### **Lenguajes de programación**:
 
-- **Python**: Lenguaje versátil utilizado en desarrollo web, análisis de datos y automatización.
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-  [Más información sobre Python](https://www.python.org/)
+- **Python**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 40px; margin-right: 10px;">
+    <span>Lenguaje versátil utilizado en desarrollo web, análisis de datos y automatización.</span>
+  </div>
+  [Más información](https://www.python.org/)
 
-- **JavaScript**: Lenguaje fundamental para el desarrollo web interactivo en frontend y backend.
-  ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png)
-  [Más información sobre JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- **JavaScript**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png" alt="JavaScript" style="width: 40px; margin-right: 10px;">
+    <span>Lenguaje fundamental para el desarrollo web interactivo en frontend y backend.</span>
+  </div>
+  [Más información](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-- **Java**: Utilizado en el desarrollo de aplicaciones empresariales y móviles (Android).
-  ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)
-  [Más información sobre Java](https://www.oracle.com/java/)
+- **Java**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" style="width: 40px; margin-right: 10px;">
+    <span>Utilizado en el desarrollo de aplicaciones empresariales y móviles (Android).</span>
+  </div>
+  [Más información](https://www.oracle.com/java/)
 
-- **C**: Lenguaje de bajo nivel para programación de sistemas y aplicaciones de alto rendimiento.
-  ![C](https://upload.wikimedia.org/wikipedia/commons/1/1f/C_Programming_Language.svg)
-  [Más información sobre C](https://en.wikipedia.org/wiki/C_(programming_language))
+- **C**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/C_Programming_Language.svg" alt="C" style="width: 40px; margin-right: 10px;">
+    <span>Lenguaje de bajo nivel para programación de sistemas y aplicaciones de alto rendimiento.</span>
+  </div>
+  [Más información](https://en.wikipedia.org/wiki/C_(programming_language))
 
-- **R**: Lenguaje especializado en análisis estadístico y minería de datos.
-  ![R](https://upload.wikimedia.org/wikipedia/commons/1/12/R_logo_2013.png)
-  [Más información sobre R](https://www.r-project.org/)
+- **R**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/R_logo_2013.png" alt="R" style="width: 40px; margin-right: 10px;">
+    <span>Lenguaje especializado en análisis estadístico y minería de datos.</span>
+  </div>
+  [Más información](https://www.r-project.org/)
 
-- **TypeScript**: Superset de JavaScript que agrega tipado estático para mejorar la escalabilidad y mantenimiento del código.
-  ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/42/Typescript_logo_2020.svg)
-  [Más información sobre TypeScript](https://www.typescriptlang.org/)
+- **TypeScript**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Typescript_logo_2020.svg" alt="TypeScript" style="width: 40px; margin-right: 10px;">
+    <span>Superset de JavaScript que agrega tipado estático para mejorar la escalabilidad y mantenimiento del código.</span>
+  </div>
+  [Más información](https://www.typescriptlang.org/)
 
 ### **Frameworks y librerías**:
 
-- **React.js**: Biblioteca para construir interfaces de usuario reactivas y dinámicas en aplicaciones web.
-  ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  [Más información sobre React](https://reactjs.org/)
+- **React.js**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" style="width: 40px; margin-right: 10px;">
+    <span>Biblioteca para construir interfaces de usuario reactivas y dinámicas en aplicaciones web.</span>
+  </div>
+  [Más información](https://reactjs.org/)
 
-- **Bootstrap**: Librería de CSS y JavaScript para el diseño rápido de interfaces web responsivas.
-  ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2020.svg)
-  [Más información sobre Bootstrap](https://getbootstrap.com/)
+- **Bootstrap**  
+  <div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2020.svg" alt="Bootstrap" style="width: 40px; margin-right: 10px;">
+    <span>Librería de CSS y JavaScript para el diseño rápido de interfaces web responsivas.</span>
+  </div>
+  [Más información](https://getbootstrap.com/)
 
 ### **Bases de datos**:
 
-- **MySQL**: Base de datos relacional para el almacenamiento y gestión de datos estructurados.
-  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.png)
-  [Más información sobre MySQL](https://www.mysql.com/)
-
-- **Firebase**: Plataforma de base de datos en tiempo real y backend como servicio (BaaS) de Google para aplicaciones web y móviles.
-  ![Firebase](https://upload.wikimedia.org/wikipedia/commons/e/e3/Firebase_Logo.svg)
-  [Más información sobre Firebase](https://firebase.google.com/)
-
-### **Herramientas de desarrollo**:
-
-- **Git**: Sistema de control de versiones distribuido para gestionar proyectos y colaborar en equipo.
-  ![Git](https://upload.wikimedia.org/wikipedia/commons/0/01/Git-logo.svg)
-  [Más información sobre Git](https://git-scm.com/)
-
-- **GitHub/GitLab/Bitbucket**: Plataformas de alojamiento de código que permiten colaboración y control de versiones en proyectos de software.
-  ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
-  [Más información sobre GitHub](https://github.com/)
-  ![GitLab](https://upload.wikimedia.org/wikipedia/commons/e/e2/GitLab_Logo.svg)
-  [Más información sobre GitLab](https://about.gitlab.com/)
-  ![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/a/a2/Bitbucket_logo_2021.svg)
-  [Más información sobre Bitbucket](https://bitbucket.org/)
-
-- **VS Code**: Editor de código ligero y personalizable para varios lenguajes y tecnologías.
-  ![VS Code](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg)
-  [Más información sobre VS Code](https://code.visualstudio.com/)
+- **MySQL**  
+  <div style="display: flex; align-items: ce
 
 ## Intereses
 
