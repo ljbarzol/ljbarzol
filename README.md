@@ -6,6 +6,9 @@ Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada po
   - [Información personal](#información-personal)
   - [Contacto](#contacto)
   - [Proyectos](#proyectos)
+    - [Proyecto 1: DATATHON WIDS - 2024](#proyecto-1-datathon-wids---2024)
+    - [Proyecto 2: ESTRUCTURAS DE DATOS](#proyecto-2-estructuras-de-datos)
+    - [Proyecto 3: SIMULACION DE ERRORES EN LA TRANSMISION](#proyecto-3-simulacion-de-errores-en-la-transmision)
   - [Tecnologias aprendidas](#tecnologias-aprendidas)
   - [Intereses](#intereses)
 ## Información personal
@@ -16,8 +19,7 @@ Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada po
 ## Contacto
 * Correo institucional: ljbarzol@espol.edu.ec
 ## Proyectos
-//Muestra al menos tres proyectos, con descripciones claras, tecnologías utilizadas y enlaces a los repositorios.
-* ### Proyecto 1: DATATHON WIDS - 2024 
+ ### Proyecto 1: DATATHON WIDS - 2024 
 - **Descripción**: Desarrolo de modelos predictivos para diagnósticos rápidos de cáncer metastásico  
 - **Tecnologías Utilizadas**: 
   - JavaScript
@@ -25,20 +27,18 @@ Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada po
   - HTML
   - CSS
 - **Repositorio**: [Link del repositorio](https://github.com/ljbarzol/WIDS-2024)
-* ### Proyecto 2: ESTRUCTURAS DE DATOS
+  ### Proyecto 2: ESTRUCTURAS DE DATOS
 - **Descripción**: 
 - **Tecnologías Utilizadas**: 
   - Java
 - **Repositorio**: [Link del repositorio](https://github.com/vic28code/Grupo_11)
-  * ### Proyecto 3: SIMULACION DE ERRORES EN LA TRANSMISION 
+  ### Proyecto 3: SIMULACION DE ERRORES EN LA TRANSMISION 
 - **Descripción**: Simulación de una aplicación en la que el cliente guarda datos en un servidor.
 - **Tecnologías Utilizadas**: 
   - Python
 - **Repositorio**: [Link del repositorio](https://github.com/DiegoA00/Simulacion-de-Errores-en-la-Transmision)
   
 ## Tecnologias aprendidas 
-// Describe las tecnologías, herramientas, frameworks y librerías aprendidas durante el curso, explicando su uso en los proyectos.
-
 A lo largo de mi formación en Ingeniería en Computación, he tenido la oportunidad de trabajar con diversas tecnologías que me han permitido crear soluciones eficientes en diferentes áreas de la programación. A continuación, detallo algunas de las más relevantes:
 
 - **Lenguajes de programación**:  
@@ -48,22 +48,14 @@ A lo largo de mi formación en Ingeniería en Computación, he tenido la oportun
 
 - **Frameworks y librerías**:  
   - **React.js**: Framework que he usado para el desarrollo de aplicaciones web frontend, creando interfaces de usuario reactivas y dinámicas que mejoran la experiencia del usuario.
-  - **Spring Boot**: Un framework Java que facilita el desarrollo de aplicaciones web y microservicios. He utilizado Spring Boot para implementar aplicaciones con arquitectura basada en servicios.
-  - **TensorFlow**: Usado en el desarrollo de modelos de aprendizaje automático e inteligencia artificial, me ha permitido implementar soluciones de análisis predictivo en proyectos de datos.
+
   
 - **Bases de datos**:  
-  - **MySQL / PostgreSQL**: Bases de datos relacionales utilizadas para el almacenamiento y gestión de grandes volúmenes de información. He trabajado en proyectos de backend para diseñar y optimizar esquemas de bases de datos eficientes.
-  - **MongoDB**: Base de datos NoSQL utilizada en proyectos con datos no estructurados, permitiendo almacenar información de manera flexible y escalable.
+  - **MySQL**: Bases de datos relacional utilizada para el almacenamiento y gestión de grandes volúmenes de información. 
+
   
 - **Herramientas de desarrollo**:  
   - **Git**: Utilizado para el control de versiones, lo que me ha permitido colaborar de manera efectiva en proyectos en equipo y mantener un historial ordenado de cambios en el código.
-  - **Docker**: Herramienta de contenedorización que facilita la creación, despliegue y ejecución de aplicaciones en entornos aislados, asegurando la consistencia entre diferentes entornos de desarrollo, prueba y producción.
-  
-- **Metodologías ágiles**:  
-  - He trabajado con **Scrum** y **Kanban** para gestionar proyectos de manera eficiente, lo que me ha permitido entregar soluciones de forma continua y adaptativa.
-
-Estas tecnologías han sido fundamentales en mi formación, y cada una me ha proporcionado herramientas específicas para abordar diferentes retos en el desarrollo de software, optimización de procesos y creación de soluciones tecnológicas de alto impacto.
-
 
 ## Intereses
 
