@@ -64,12 +64,10 @@ Manejo de archivos: Lectura y escritura de archivos de texto.
 
 ### **Frameworks y librerías**:
 
-- **React.js**: Biblioteca para construir interfaces de usuario reactivas y dinámicas en aplicaciones web.</span>
-  </div>
+- **React.js**: Biblioteca para construir interfaces de usuario reactivas y dinámicas en aplicaciones web.
   [Más información](https://reactjs.org/)
 
-- **Bootstrap**: Librería de CSS y JavaScript para el diseño rápido de interfaces web responsivas.</span>
-  </div>
+- **Bootstrap**: Librería de CSS y JavaScript para el diseño rápido de interfaces web responsivas.
   [Más información](https://getbootstrap.com/)
 
 ### **Bases de datos**:
