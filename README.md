@@ -1,10 +1,10 @@
 # Leidy Barzola 👩‍💻
 Hola, mi nombre es Leidy Barzola, futura Ingeniera en Computación apasionada por la programacion y la informatica en general. Me encanta programar y disfrutar de los retos que surgen al desarrollar soluciones tecnológicas.
 ## Contenido
-[Informacion personal](#información-personal)
-[Contacto](#contacto)
-[Proyectos](#proyectos)
-[Tecnologias-aprendidas](#tecnologias-aprendidas)
+- [Informacion personal](#información-personal)
+- [Contacto](#contacto)
+- [Proyectos](#proyectos)
+- [Tecnologias-aprendidas](#tecnologias-aprendidas)
 
 ## Información personal
 * Nombre: Leidy Barzola
